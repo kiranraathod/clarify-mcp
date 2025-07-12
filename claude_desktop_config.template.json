@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "clarify-mcp": {
+      "command": "node",
+      "args": ["FULL_PATH_TO_YOUR_PROJECT/clarify-mcp/dist/index.js"],
+      "env": {}
+    }
+  }
+}
