@@ -73,7 +73,7 @@ The server **only** activates when you explicitly mention "clarify" in your requ
 ❌ **Won't trigger (normal behavior):**
 - "Build a todo app" → Claude starts building immediately
 - "Create a dashboard" → Claude starts creating immediately
-- "Write a Python script" → Claude starts writing immediately
+
 
 ### Example Interaction
 
@@ -85,9 +85,7 @@ Here are some important questions:
 1. What is the primary goal or outcome you want to achieve?
 2. What programming language or framework should I use?
 3. Are there any specific libraries or dependencies you prefer?
-4. What is your target environment (web, mobile, desktop, etc.)?
-5. Are there any constraints or limitations I should be aware of?
-6. What does success look like for this project?"
+
 
 ## 🔧 Configuration
 
